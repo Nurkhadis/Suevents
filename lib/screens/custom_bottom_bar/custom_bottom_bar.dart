@@ -31,7 +31,7 @@ class _CustomBottomBarState extends State<CustomBottomBar> {
         PersistentBottomNavBarItem(
           icon: const Icon(Icons.home),
           inactiveIcon: const Icon(Icons.home_outlined),
-          title: "Home",
+          title: "Главная",
           activeColorPrimary: Colors.white,
           inactiveColorPrimary: Colors.white,
         ),

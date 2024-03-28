@@ -16,10 +16,10 @@ class DefaultFirebaseConfig {
     } else {
       // Android
       return const FirebaseOptions(
-        appId: '',
-        apiKey: '',
-        projectId: '',
-        messagingSenderId: '',
+        appId: '1:609191671558:android:5fb03632b6dc62ead31087',
+        apiKey: 'AIzaSyCnfI6vTFxfvwu_KxVr_aYZD6NzRaYwGXc',
+        projectId: 'satbayevevents',
+        messagingSenderId: '609191671558',
       );
     }
   }
